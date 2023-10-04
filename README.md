@@ -2,6 +2,7 @@
 <Images src='Images/19-4-challenge-image.png'>
 
 
+
 ### Background
 
 You work at a startup that is building a new and disruptive platform called KryptoJobs2Go. KryptoJobs2Go is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. As KryptoJobs2Go’s lead developer, you have been tasked with integrating the Ethereum blockchain network into the application in order to enable your customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
@@ -33,7 +34,9 @@ Specifically, you will assume the perspective of a KryptoJobs2Go customer in ord
 Once you receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that you have successfully created the transaction, you will save screenshots to the README.md file of your GitHub repository for this Challenge assignment.
 
  <Images src='Images/Transc1.png'>
- 
+    
+
+
 
 
 
