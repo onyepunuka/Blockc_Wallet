@@ -1,6 +1,6 @@
 ## Unit 19 Homework: Cryptocurrency Wallet
+<Images src='Images/19-4-challenge-image.png'>
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
 
 ### Background
 
@@ -32,6 +32,8 @@ Specifically, you will assume the perspective of a KryptoJobs2Go customer in ord
 
 Once you receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that you have successfully created the transaction, you will save screenshots to the README.md file of your GitHub repository for this Challenge assignment.
 
-!  (Images/Transc1.png)
+ <Images src='Images/Transc1.png'>
+ 
+
 
 
